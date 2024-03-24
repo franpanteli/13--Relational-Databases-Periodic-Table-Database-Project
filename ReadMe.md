@@ -17,5 +17,5 @@ For this project, I had to ...INSERT. My notes on the full task brief for this a
 
 ## To Clone This Repository
 ```
-git clone https://github.com/franpanteli/13--Relational-Databases-Periodic-Table-Database-Project.git
+git clone https://github.com/franpanteli/Relational-Databases-Periodic-Table-Database-Project.git
 ```
